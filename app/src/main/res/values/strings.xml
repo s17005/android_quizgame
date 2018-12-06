@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">QuizAppli</string>
+    <string name="titleText">くいずげーむ</string>
+    <string name="button_normal">のーまる</string>
+    <string name="button_hard">はーど</string>
+    <string name="titleText">くいずげーむ</string>
+    <string name="normal">ノーマル</string>
+    <string name="random">らんだむ出題</string>
+    <string name="hard">ハード</string>
 </resources>

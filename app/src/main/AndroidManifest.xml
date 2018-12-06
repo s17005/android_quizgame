@@ -16,6 +16,20 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
+        <activity android:name=".MainGame">
+        </activity>
+        <activity android:name=".MainGameNormal">
+        </activity>
+        <activity android:name=".MainGameHard">
+        </activity>
+        <activity android:name=".Explanation">
+        </activity>
+        <activity android:name=".MainGameRandom">
+        </activity>
+        <activity android:name=".Genre">
+        </activity>
+        <activity android:name=".Difficult">
+        </activity>
     </application>
 
 </manifest>
